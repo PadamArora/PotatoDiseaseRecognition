@@ -145,7 +145,7 @@ PotatoDiseaseRecognition/
 ├── samples/                 # Sample test images
 ├── training.py              # Model training script
 ├── testing.py               # Model testing / evaluation script
-├── model.pkl                # Trained model weights
+├── 1.keras                # Trained model weights
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
 ```
